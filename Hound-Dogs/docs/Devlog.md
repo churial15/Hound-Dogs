@@ -1,1 +1,5 @@
-AQUI É ONDE VAI FICAR O HISTÓRICO DE DESENVOLVIMENTO
+#HISTÓRICO DE DESENVOLVIMENTO:
+
+#PROJETO HOUND DOGS:
+
+Data     |    Problema     |    Integrante    |     Solução
