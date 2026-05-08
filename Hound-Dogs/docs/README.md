@@ -1,11 +1,11 @@
 # Nesta README ficará outros links para *documentos* explicando detalhes sobre o projeto:
 
 ## installation.md -
-Nesse documento você deve explicar em detalhes como instalar o projeto. Inclua dependências, pré requisitos, e outras informações relevantes para quem está entrando em contato com o projeto pela primeira vez.
+> Nesse documento você deve explicar em detalhes como instalar o projeto. Inclua dependências, pré requisitos, e outras informações relevantes para quem está entrando em contato com o projeto pela primeira vez.
 
 ## usage.md -
-Uma visão mais detalhada sobre os comandos e/ou forma de usar o projeto.
+> Uma visão mais detalhada sobre os comandos e/ou forma de usar o projeto.
 
 ## advanced.md -
 
-Um documento para reunir casos de uso mais avançado e outras dicas que são mais específicas e vão além da utilização básica do projeto.
+> Um documento para reunir casos de uso mais avançado e outras dicas que são mais específicas e vão além da utilização básica do projeto.
