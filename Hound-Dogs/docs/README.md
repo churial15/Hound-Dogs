@@ -1,4 +1,4 @@
-# Nesta README ficará outros links para documentos explicando detalhes sobre o projeto:
+# Nesta README ficará outros links para *documentos* explicando detalhes sobre o projeto:
 
 ## installation.md -
 Nesse documento você deve explicar em detalhes como instalar o projeto. Inclua dependências, pré requisitos, e outras informações relevantes para quem está entrando em contato com o projeto pela primeira vez.
